@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74850021/191625468-493a008b-6087-43ff-8af6-c5910cb29cb1.png">
+</div>
+
 <!--
 **winnie-s3/winnie-s3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
