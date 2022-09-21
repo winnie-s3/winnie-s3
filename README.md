@@ -9,7 +9,7 @@
 </div> <br>
 
 <div align="center">
-  <p> I'm a 2/3 year Softwares Development student 💻 at a technical school in São Paulo, Brazil 📍. My passions are reading, languages study and specially coding. I also have a huge interest in hacking and cybersecurity <img align="center" src="https://user-images.githubusercontent.com/74850021/191629913-96a6d29d-5fd3-4cb9-9660-58a8de8ab6ae.png">.</p>
+  <p> I'm a 2/3 year Softwares Development student 💻 at a technical school in São Paulo, Brazil 📍. <br> My passions are reading, languages study and specially coding. I also have a huge interest in hacking and cybersecurity <img align="center" src="https://user-images.githubusercontent.com/74850021/191630083-d7754845-635d-48a7-949f-2c0aa8f36c1e.png">.</p>
 
 <div align="center">
   <h1>Technology Stack</h1>
