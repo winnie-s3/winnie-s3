@@ -6,7 +6,10 @@
   <a href="https://instagram.com/_winnie.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:winniestefany303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/winnie-silva-4002661b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> <br>
+
+<div align="center">
+  <p> I'm a 2/3 year Softwares Development student 💻 at a technical school in São Paulo, Brazil 📍. My passions are reading, languages study and specially coding. I also have a huge interest in hacking and cybersecurity <img src
 
 <div align="center">
   <h1>Technology Stack</h1>
