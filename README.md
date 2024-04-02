@@ -9,7 +9,7 @@
 </div> <br>
 
 <div align="center">
-  <p> I'm a 2/3 year Softwares Development student 💻 at a technical school in São Paulo, Brazil 📍. <br> My passions are reading, languages study and specially coding. I also have a huge interest in hacking and cybersecurity <img align="center" src="https://user-images.githubusercontent.com/74850021/191630083-d7754845-635d-48a7-949f-2c0aa8f36c1e.png">.</p><br>
+  <p>Desenvolvedora Full Stack formada em técnico em Desenvolvimento de Sistemas pela ETEC Jardim Ângela. Experiente em HTML, CSS, Javascript, PHP, C#, MySQL e ReactJS.</p><br>
 </div>
 
 <div align="center">
