@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" height="100%" src="https://user-images.githubusercontent.com/74850021/191635073-5eeda150-95d4-41c5-8e84-d08845578d77.png">
-</div>
-
 <div align="center"> 
   <a href="https://instagram.com/_winnie.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:winniestefany303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
