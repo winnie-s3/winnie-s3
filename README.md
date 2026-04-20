@@ -1,34 +1,56 @@
 <div align="center">
-  <h1>FULL STACK DEVELOPER</h1>
+  <h1>Backend .NET Developer</h1>
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/_winnie.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:winniestefany303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/winnie-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> <br>
+  <a href="mailto:winniestefany303@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/winnie-silva" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div> 
+
+<br>
 
 <div align="center">
-  <p>I'm Winnie Silva, a Full Stack Developer with training in Systems Development Technical course at ETEC Jardim Ângela. I have experience in HTML, CSS, Javascript, PHP, C#, MySQL and ReactJS.</p><br>
+  <p>
+    Hi, I'm Winnie Silva 👋 <br><br>
+    Backend Developer focused on building APIs using <strong>C#</strong>, <strong>ASP.NET Core</strong> and <strong>Entity Framework</strong>.
+    <br><br>
+    Currently responsible for maintaining and evolving a real-world system, working independently on bug fixes, business rules and backend logic.
+    <br><br>
+    Focused on improving backend architecture, performance and clean code practices.
+  </p>
 </div>
 
-<div align="center">
-  <h1>Technology Stack</h1>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Winnie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Winnie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Winnie-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img align="center" alt="Winnie-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Winnie-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img align="center" alt="Winnie-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="Winnie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    <img align="center" alt="Winnie-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-  </div>
-</div><br><br>
+<br>
 
 <div align="center">
-  <h1> My Github Stats</h1>
-  <a href="https://github.com/winnie-s3">
+  <h2>Tech Stack</h2>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="Dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+    <img align="center" alt="SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>About Me</h2>
+  <p>
+    • Backend Developer (.NET) <br>
+    • Experience with APIs REST, Entity Framework and SQL Server <br>
+    • Strong focus on backend logic and data modeling <br>
+    • Currently looking for remote opportunities <br>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>GitHub Stats</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winnie-s3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnie-s3&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnie-s3&layout=compact&langs_count=6&theme=dracula"/>
 </div>
