@@ -150,16 +150,6 @@ PHP • MySQL • JavaScript • HTML • CSS
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Minhas Estatísticas do GitHub](https://vercel.app)
-
-</div>
-
----
-
 <div align="center">
 
 ### Open to remote opportunities 🚀
