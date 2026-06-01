@@ -1,56 +1,169 @@
 <div align="center">
-  <h1>Backend .NET Developer</h1>
-</div>
 
-<div align="center"> 
-  <a href="mailto:winniestefany303@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/winnie-silva" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div> 
+# Winnie Silva
+
+### Full Stack Developer | .NET | React | Next.js | TypeScript | SQL
 
 <br>
 
-<div align="center">
-  <p>
-    Hi, I'm Winnie Silva 👋 <br><br>
-    Backend Developer focused on building APIs using <strong>C#</strong>, <strong>ASP.NET Core</strong> and <strong>Entity Framework</strong>.
-    <br><br>
-    Currently responsible for maintaining and evolving a real-world system, working independently on bug fixes, business rules and backend logic.
-    <br><br>
-    Focused on improving backend architecture, performance and clean code practices.
-  </p>
+<a href="mailto:winniestefany303@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/winnie-silva" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/winnie-s3" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
 
-<br>
+---
+
+## About Me
+
+Hi! I'm Winnie Silva 👋
+
+I'm a Full Stack Developer focused on building web applications, APIs and business systems using modern technologies such as **C#**, **ASP.NET Core**, **React**, **Next.js** and **TypeScript**.
+
+Currently, I work on the maintenance and evolution of real-world production systems, dealing with backend logic, business rules, debugging, APIs, SQL queries and system improvements.
+
+I also build personal projects focused on dashboards, automation and internal business tools, always trying to solve real operational problems through software.
+
+---
+
+## Tech Stack
+
+### Backend
+- C#
+- .NET / ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- LINQ
+- SQL Server
+- PostgreSQL
+- MySQL
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML
+- CSS
+
+### Tools & Others
+- Git / GitHub
+- Supabase
+- Vercel
+- Postman
+- Responsive Design
+- Data Visualization
+- API Integration
+
+---
+
+## Featured Projects
+
+### DashFlow — Business Dashboard Platform
+
+SaaS platform focused on transforming spreadsheets into financial and operational dashboards.
+
+#### Features
+- CSV upload
+- Dynamic column mapping
+- Financial dashboards
+- Interactive charts
+- Reports
+- Authentication
+- Responsive UI
+- Import history
+
+#### Stack
+Next.js • React • TypeScript • Tailwind CSS • Supabase • PostgreSQL
+
+🔗 Live Demo:  
+https://dashflow-rho.vercel.app/
+
+🔗 Repository:  
+https://github.com/winnie-s3/dashflow
+
+---
+
+### Financial Manager API
+
+Personal finance management API developed with ASP.NET Core.
+
+#### Features
+- Income & expense management
+- Financial dashboard
+- Monthly analysis
+- Category reports
+- REST API
+- Business rules validation
+
+#### Stack
+C# • ASP.NET Core • Entity Framework Core • SQL Server
+
+🔗 Repository:  
+https://github.com/winnie-s3/gestao-financeira-api
+
+---
+
+### Bloomie
+
+Social platform project created to connect students with educational and professional opportunities.
+
+#### Stack
+PHP • MySQL • JavaScript • HTML • CSS
+
+---
+
+## Professional Experience
+
+### Backend / Full Stack Developer — AcionistaPontoNet
+
+**Jul 2024 — Present**
+
+- Maintenance and evolution of production systems
+- Development of APIs using ASP.NET Core
+- SQL Server data manipulation and modeling
+- Bug fixing and troubleshooting
+- Backend business logic implementation
+- Frontend maintenance with JavaScript and jQuery
+- Continuous system improvements and feature implementation
+
+---
+
+## Currently Learning
+
+- Software Architecture
+- Clean Architecture
+- Docker
+- Automated Testing
+- Python
+- Cloud & CI/CD
+- Scalable Backend Systems
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <h2>Tech Stack</h2>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    <img align="center" alt="Dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-    <img align="center" alt="SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=winnie-s3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnie-s3&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h2>About Me</h2>
-  <p>
-    • Backend Developer (.NET) <br>
-    • Experience with APIs REST, Entity Framework and SQL Server <br>
-    • Strong focus on backend logic and data modeling <br>
-    • Currently looking for remote opportunities <br>
-  </p>
-</div>
 
-<br>
+### Open to remote opportunities 🚀
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winnie-s3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnie-s3&layout=compact&langs_count=6&theme=dracula"/>
 </div>
