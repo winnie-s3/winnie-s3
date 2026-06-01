@@ -154,7 +154,7 @@ PHP • MySQL • JavaScript • HTML • CSS
 
 <div align="center">
 
-![https://github.com/winnie-s3/'s Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/winnie-s3/&theme=vue-dark&hide_border=true)
+![Minhas Estatísticas do GitHub](https://vercel.app)
 
 </div>
 
