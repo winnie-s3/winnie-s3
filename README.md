@@ -2,7 +2,10 @@
 
 # Winnie Silva
 
-### Full Stack Developer | .NET | React | Next.js | TypeScript | SQL
+### .NET / Full Stack Developer
+**C# • ASP.NET Core • .NET Framework • REST APIs • SQL Server • React • TypeScript**
+
+Building backend APIs, business systems and web applications.
 
 <br>
 
@@ -24,134 +27,92 @@
 
 ## About Me
 
-Hi! I'm Winnie Silva 👋
+I'm a .NET Developer with around two years of professional experience maintaining and evolving a financial system in production.
 
-I'm a Full Stack Developer focused on building web applications, APIs and business systems using modern technologies such as **C#**, **ASP.NET Core**, **React**, **Next.js** and **TypeScript**.
+My day-to-day work involves **C#, .NET Framework, ASP.NET WebForms, SQL Server, Entity Framework, LINQ, REST APIs, integrations, business rules and production troubleshooting**.
 
-Currently, I work on the maintenance and evolution of real-world production systems, dealing with backend logic, business rules, debugging, APIs, SQL queries and system improvements.
+I work across the development lifecycle, from understanding business requirements and analyzing existing application flows to implementing features, investigating bugs, working with SQL and validating changes before production.
 
-I also build personal projects focused on dashboards, automation and internal business tools, always trying to solve real operational problems through software.
+Outside my professional environment, I build projects with **ASP.NET Core, Entity Framework Core, React, Next.js and TypeScript**, focusing on modern backend development, APIs, software architecture and real business problems.
+
+Currently studying **Information Systems at Faculdade Impacta**.
 
 ---
 
 ## Tech Stack
 
 ### Backend
-- C#
-- .NET / ASP.NET Core
-- Entity Framework Core
-- REST APIs
-- LINQ
-- SQL Server
-- PostgreSQL
-- MySQL
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+`C#` • `.NET Framework` • `ASP.NET WebForms` • `ASP.NET Core` • `REST APIs` • `Entity Framework` • `Entity Framework Core` • `LINQ`
 
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML
-- CSS
 
-### Tools & Others
-- Git / GitHub
-- Supabase
-- Vercel
-- Postman
-- Responsive Design
-- Data Visualization
-- API Integration
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
----
+`JavaScript` • `jQuery` • `AJAX` • `HTML` • `CSS` • `React` • `Next.js` • `TypeScript`
 
-## Featured Projects
+### Databases
 
-### DashFlow — Business Dashboard Platform
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-SaaS platform focused on transforming spreadsheets into financial and operational dashboards.
+`SQL Server` • `PostgreSQL` • `SQLite` • `SQL` • `Stored Procedures`
 
-#### Features
-- CSV upload
-- Dynamic column mapping
-- Financial dashboards
-- Interactive charts
-- Reports
-- Authentication
-- Responsive UI
-- Import history
+### Tools & Practices
 
-#### Stack
-Next.js • React • TypeScript • Tailwind CSS • Supabase • PostgreSQL
-
-🔗 Live Demo:  
-https://dashflow-rho.vercel.app/
-
-🔗 Repository:  
-https://github.com/winnie-s3/dashflow
+`Git` • `GitHub` • `Postman` • `Swagger / OpenAPI` • `xUnit` • `JWT` • `Dependency Injection` • `POO` • `SOLID` • `Clean Code` • `Debugging` • `Troubleshooting`
 
 ---
 
-### Financial Manager API
+# Featured Projects
 
-Personal finance management API developed with ASP.NET Core.
+## 📊 Portfolio Manager API
 
-#### Features
-- Income & expense management
-- Financial dashboard
-- Monthly analysis
-- Category reports
-- REST API
-- Business rules validation
+> Backend API for managing investment portfolios, built as both a real product foundation and a technical laboratory for modern .NET development.
 
-#### Stack
-C# • ASP.NET Core • Entity Framework Core • SQL Server
+🔗 **Repository:**  
+https://github.com/winnie-s3/portfolio-manager-api
 
-🔗 Repository:  
-https://github.com/winnie-s3/gestao-financeira-api
+### What is implemented
 
----
+- User registration and authentication
+- JWT authentication
+- Password hashing with BCrypt
+- Portfolio management
+- Asset management
+- REST endpoints
+- Controllers and Services separation
+- DTOs and Mappers
+- Dependency Injection
+- Entity Framework Core
+- Database migrations
+- Pagination and filters
+- Swagger / OpenAPI
+- Unit tests with xUnit
+- EF Core InMemory for tests
+- Secure local secrets with .NET User Secrets
 
-### Bloomie
+### Stack
 
-Social platform project created to connect students with educational and professional opportunities.
+**C# • ASP.NET Core Web API • Entity Framework Core • SQLite • LINQ • JWT • BCrypt • xUnit • Swagger • Git**
 
-#### Stack
-PHP • MySQL • JavaScript • HTML • CSS
+### Current evolution
 
----
+The domain is currently being refactored from a simple portfolio CRUD into an investment operation model based on:
 
-## Professional Experience
-
-### Backend / Full Stack Developer — AcionistaPontoNet
-
-**Jul 2024 — Present**
-
-- Maintenance and evolution of production systems
-- Development of APIs using ASP.NET Core
-- SQL Server data manipulation and modeling
-- Bug fixing and troubleshooting
-- Backend business logic implementation
-- Frontend maintenance with JavaScript and jQuery
-- Continuous system improvements and feature implementation
-
----
-
-## Currently Learning
-
-- Software Architecture
-- Clean Architecture
-- Docker
-- Automated Testing
-- Python
-- Cloud & CI/CD
-- Scalable Backend Systems
-
----
-
-<div align="center">
-
-### Open to remote opportunities 🚀
-
-</div>
+```text
+User
+  ↓
+Portfolio
+  ↓
+InvestmentTransaction
+  ↓
+Asset
